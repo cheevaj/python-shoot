@@ -9,13 +9,6 @@
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/screen_websit.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/shortwebsite.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/video_youtrue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Colors_HEX.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Colors_HEX.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_one.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_one.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_two.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_two.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../websiteexport/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/components/NuxtLogo.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/components/Tutorial.vue" beforeDir="false" />
@@ -135,7 +128,7 @@
       <workItem from="1712202266286" duration="20657000" />
       <workItem from="1712283066518" duration="1273000" />
       <workItem from="1712541656120" duration="18776000" />
-      <workItem from="1712626632984" duration="13104000" />
+      <workItem from="1712626632984" duration="13428000" />
     </task>
     <servers />
   </component>
@@ -143,7 +136,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonImage$main.coverage" NAME="main Coverage Results" MODIFIED="1712645657046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$main.coverage" NAME="main Coverage Results" MODIFIED="1712645760872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$screenPhone.coverage" NAME="screenPhone Coverage Results" MODIFIED="1711943567968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$cameraPhone.coverage" NAME="cameraPhone Coverage Results" MODIFIED="1711943929513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$sta2.coverage" NAME="sta2 Coverage Results" MODIFIED="1711350449722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
