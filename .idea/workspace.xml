@@ -9,14 +9,13 @@
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/screen_websit.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/shortwebsite.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Game_All/GameAll/002_match_multiple/video_youtrue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Colors_HEX.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Colors_HEX.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_one.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_one.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_two.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_two.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/aiboost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cameraPhone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cameraPhone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capcut_csreen.py" beforeDir="false" afterPath="$PROJECT_DIR$/capcut_csreen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenPhone.py" beforeDir="false" afterPath="$PROJECT_DIR$/screenPhone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../websiteexport/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/components/NuxtLogo.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../websiteexport/components/Tutorial.vue" beforeDir="false" />
@@ -52,7 +51,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -63,36 +62,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.NewProject.executor": "Run",
-    "Python.See_shootAuto.executor": "Run",
-    "Python.aiboost.executor": "Run",
-    "Python.cameraPhone.executor": "Run",
-    "Python.capcut_csreen.executor": "Run",
-    "Python.carspeeddetect.executor": "Run",
-    "Python.image_scran.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.scan.executor": "Run",
-    "Python.screenPhone.executor": "Run",
-    "Python.sta2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/project/Python/Game_All/GameAll/001_intro",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.NewProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.See_shootAuto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aiboost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cameraPhone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capcut_csreen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.carspeeddetect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_scran.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.runGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.screenPhone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sta2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/Python/Game_All/GameAll/001_intro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\Chi\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="ccf41176-c1ec-4867-9166-b2d643a16d31" reportId="PythonImage/qodana/2024-03-22" />
-    </option>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +132,10 @@
       <workItem from="1712196927413" duration="2052000" />
       <workItem from="1712200140074" duration="402000" />
       <workItem from="1712202209729" duration="42000" />
-      <workItem from="1712202266286" duration="18789000" />
+      <workItem from="1712202266286" duration="20657000" />
+      <workItem from="1712283066518" duration="1273000" />
+      <workItem from="1712541656120" duration="18776000" />
+      <workItem from="1712626632984" duration="13104000" />
     </task>
     <servers />
   </component>
@@ -145,16 +143,17 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonImage$main.coverage" NAME="main Coverage Results" MODIFIED="1711943544041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonImage$carspeeddetect.coverage" NAME="carspeeddetect Coverage Results" MODIFIED="1712214305242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonImage$See_shootAuto.coverage" NAME="See_shootAuto Coverage Results" MODIFIED="1712217301728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$main.coverage" NAME="main Coverage Results" MODIFIED="1712645657046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$screenPhone.coverage" NAME="screenPhone Coverage Results" MODIFIED="1711943567968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$cameraPhone.coverage" NAME="cameraPhone Coverage Results" MODIFIED="1711943929513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$sta2.coverage" NAME="sta2 Coverage Results" MODIFIED="1711350449722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$runGame.coverage" NAME="runGame Coverage Results" MODIFIED="1712637931087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$NewProject.coverage" NAME="NewProject Coverage Results" MODIFIED="1712541755308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$aiboost.coverage" NAME="aiboost Coverage Results" MODIFIED="1712221950770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$carspeeddetect.coverage" NAME="carspeeddetect Coverage Results" MODIFIED="1712214305242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$See_shootAuto.coverage" NAME="See_shootAuto Coverage Results" MODIFIED="1712217301728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$scan.coverage" NAME="scan Coverage Results" MODIFIED="1711941199981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonImage$image_scran.coverage" NAME="image_scran Coverage Results" MODIFIED="1712214297244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonImage$NewProject.coverage" NAME="NewProject Coverage Results" MODIFIED="1712220593806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonImage$capcut_csreen.coverage" NAME="capcut_csreen Coverage Results" MODIFIED="1712219592193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonImage$aiboost.coverage" NAME="aiboost Coverage Results" MODIFIED="1712221950770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonImage$capcut_csreen.coverage" NAME="capcut_csreen Coverage Results" MODIFIED="1712564863519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
